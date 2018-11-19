@@ -1,0 +1,12 @@
+*.html
+humans.txt
+robots.txt
+.sass-cache
+node_modules
+.bin
+bower_components
+npm-debug.log
+.phpintel
+.DS_Store
+.phpintel/*
+.phpintel
